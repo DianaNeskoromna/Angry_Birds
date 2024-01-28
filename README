@@ -1,0 +1,7 @@
+Tento program stimuluje hru Angry Birds. 
+Při spuštění se uživateli zobrazí menu s úrovněmi, 
+spuštěním hry a ukončením programu. 
+Při výběru spuštění hry se uživatel může pokusit vyhrát úroveň. 
+Abyste vyhráli, musíte si vybrat ptáka, vypustit ho prakem a prase zasáhnout. 
+Poté může uživatel vyhrát nebo prohrát. Když vyhrajete, hra končí. 
+Ke spuštění hry existuje makefile. Uživatel musí mít knihovny a jejich cestu.
